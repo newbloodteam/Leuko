@@ -1,2 +1,2 @@
-# All about Leuko in TL72
-# https://github.com/orgs/newbloodteam/teams/leuko-tl72
+# All about Leuko in TL73
+# https://github.com/orgs/newbloodteam/teams/leuko-tl73
